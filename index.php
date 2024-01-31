@@ -103,7 +103,7 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto active" href="#home">Home</a></li>
                     <li class="dropdown"><a class="nav-link scrollto" href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Electrical Services</a></li>
@@ -144,7 +144,7 @@
         </section><!-- End About Us Section -->
 
         <!-- ======= Counts Section ======= -->
-        <section class="counts section-bg">
+        <section class="home section-bg">
             <div class="container">
 
                 <div class="row no-gutters">
