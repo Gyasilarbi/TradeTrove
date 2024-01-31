@@ -206,8 +206,8 @@
                             <div class="icon"><i class="bi bi-house"></i></div>
                             <h4 class="title"><a href="/services/tour.php">Home Services</a></h4>
                             <p class="description">Routine maintenance tasks to keep the home in good condition.
-                                 Plumbing maintenance, electrical system checks, HVAC system servicing, roof inspections, and gutter cleaning.Professional cleaning services for various areas of the home.
-                                 House cleaning, carpet cleaning, window cleaning, and deep cleaning services, etc</p>
+                                Plumbing maintenance, electrical system checks, HVAC system servicing, roof inspections, and gutter cleaning.Professional cleaning services for various areas of the home.
+                                House cleaning, carpet cleaning, window cleaning, and deep cleaning services, etc</p>
                         </div>
                     </div>
 
@@ -216,21 +216,21 @@
                             <div class="icon"><i class="bi bi-car-front-fill"></i></div>
                             <h4 class="title"><a href="">Mechanical Services</a></h4>
                             <p class="description">HVAC system installation, maintenance, and repair.
-Boiler installation and servicing.
-Plumbing system installations and repairs.
-Ventilation system design and maintenance.
-Refrigeration system services.
-Mechanical equipment troubleshooting and diagnostics.
-Preventive maintenance for machinery and systems.
-Energy efficiency assessments.</p>
+                                Boiler installation and servicing.
+                                Plumbing system installations and repairs.
+                                Ventilation system design and maintenance.
+                                Refrigeration system services.
+                                Mechanical equipment troubleshooting and diagnostics.
+                                Preventive maintenance for machinery and systems.
+                                Energy efficiency assessments.</p>
                         </div>
                     </div>
 
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-scissors"></i></div>
+                            <div class="icon"><i class="bi bi-trash"></i></div>
                             <h4 class="title"><a href="">Dining and Culinary Experiences and Events</a></h4>
-                            <p class="description">Recommendations for local restaurants, street food experiences, and cultural dining events. <br> Coordination of special events, celebrations, or group activities.</p>
+                            <p class="description">Regular cleaning of homes, apartments, or condominiums. Cleaning services for businesses, offices, and commercial establishments. Thorough and comprehensive cleaning that goes beyond regular maintenance. Specialized cleaning for carpets and rugs.</p>
                         </div>
                     </div>
 
