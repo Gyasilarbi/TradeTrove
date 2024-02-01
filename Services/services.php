@@ -58,6 +58,7 @@
     </header><!-- End Header -->
 
     <main id="main">
+        <!----------How----------->
         <section class="how section-bg">
             <div class="container">
                 <div class="row no-gutters">
@@ -92,8 +93,17 @@
                     </div>
                 </div>
             </div>
-
         </section>
+
+        <section>
+            <div class="container">
+                <div class="row no-gutters">
+                    
+                </div>
+            </div>
+        </section>
+
+        
 
     </main>
 

@@ -154,7 +154,6 @@
                         <div class="count-box">
                             <i class="bi bi-emoji-smile"></i>
                             <span data-purecounter-start="0" data-purecounter-end="41572828" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Skilled <strong>Personel</strong></p>
                             <p>Discover unparalleled expertise at TradeTrove! Our skilled personnel bring a wealth of experience and proficiency to every task. From seasoned carpenters and plumbers to expert electricians, our professionals are dedicated to solving your challenges with precision and professionalism. Explore a diverse pool of talent on TradeTrove and let our skilled personnel turn your visions into reality. Your projects, our expertise — a perfect match!</p>
                             <a href="#">Find out more &raquo;</a>
                         </div>
