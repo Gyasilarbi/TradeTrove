@@ -103,13 +103,14 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto active" href="#home">Home</a></li>
-                    <li class="dropdown"><a class="nav-link scrollto" href="#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+                    <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
+                    <li class="dropdown"><a class="nav-link scrollto" href="./Services/services.php"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a href="#">Electrical Services</a></li>
                             <li><a href="#">Mechanical Services</a></li>
                             <li><a href="#">Cleaning Services</a></li>
                             <li><a href="#">Home Services</a></li>
+                            <li><a href="#">Woodworks</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#team">Help and Support</a></li>
@@ -144,7 +145,7 @@
         </section><!-- End About Us Section -->
 
         <!-- ======= Counts Section ======= -->
-        <section class="home section-bg">
+        <section class="counts section-bg">
             <div class="container">
 
                 <div class="row no-gutters">
@@ -188,8 +189,7 @@
 
                 <div class="section-title">
                     <h2>Our Services</h2>
-                    <p>
-                        TradeTrove is a comprehensive online platform that bridges the gap between skilled tradespeople and consumers, offering a dynamic space for professionals to showcase their expertise in carpentry, electrical work, plumbing, mechanics, and more. Through secure communication channels and seamless interactions, consumers can discover, connect with, and hire tradespeople for their specific needs. The platform prioritizes user safety, fosters trust through a robust review system, and serves as a solution hub where tradespeople shine and users find the skilled professionals they require. TradeTrove goes beyond being a conventional platform, creating a collaborative environment that facilitates problem-solving, community building, and efficient connections in the trades industry.</p>
+                    <p>TradeTrove is a comprehensive online platform that bridges the gap between skilled tradespeople and consumers, offering a dynamic space for professionals to showcase their expertise in carpentry, electrical work, plumbing, mechanics, and more. Through secure communication channels and seamless interactions, consumers can discover, connect with, and hire tradespeople for their specific needs. The platform prioritizes user safety, fosters trust through a robust review system, and serves as a solution hub where tradespeople shine and users find the skilled professionals they require. TradeTrove goes beyond being a conventional platform, creating a collaborative environment that facilitates problem-solving, community building, and efficient connections in the trades industry.</p>
                 </div>
 
                 <div class="row">
@@ -233,13 +233,182 @@
                             <p class="description">Regular cleaning of homes, apartments, or condominiums. Cleaning services for businesses, offices, and commercial establishments. Thorough and comprehensive cleaning that goes beyond regular maintenance. Specialized cleaning for carpets and rugs.</p>
                         </div>
                     </div>
-
                 </div>
 
             </div>
         </section><!-- End Our Services Section -->
 
+        <!-- ======= Cta Section ======= -->
+        <section class="cta">
+            <div class="container">
+
+                <div class="text-center">
+                    <h3> TradeTrove - Your Hub for Skilled Professionals</h3>
+                    <p>Check out TradeTrove—a platform connecting skilled tradespeople with consumers. <br> Find reliable professionals for home services or showcase your expertise. <br> Visit and explore the possibilities!</p>
+                    <a class="cta-btn" href="#">Join us!</a>
+                </div>
+
+            </div>
+        </section><!-- End Cta Section -->
+
+        <!-- ======= Contact Us Section ======= -->
+        <section id="contact" class="contact section-bg">
+
+            <div class="container">
+                <div class="section-title">
+                    <h2>Contact Us</h2>
+                    <p>"Ready to transform your everyday challenges into remarkable solutions? The TradeTrove team is here to make it happen. Connect with us today, and let's embark on the journey of turning your needs into opportunities. Your exceptional solutions await!"</p>
+                </div>
+            </div>
+
+            <div class="container-fluid">
+
+                <div class="row">
+
+                    <div class="col-lg-6 d-flex align-items-stretch infos">
+
+                        <div class="row">
+
+                            <div class="col-lg-6 info d-flex flex-column align-items-stretch">
+                                <i class="bx bx-map"></i>
+                                <h4>Address</h4>
+                                <p>Akroma Road,<br>North Kaneshie, Accra - Ghana.</p>
+                            </div>
+                            <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
+                                <i class="bx bx-phone"></i>
+                                <h4>Call Us</h4>
+                                <p>+233 24 300 9448<br> +233 24 457 4987</p>
+                            </div>
+                            <div class="col-lg-6 info info-bg d-flex flex-column align-items-stretch">
+                                <i class="bx bx-envelope"></i>
+                                <h4>Email Us</h4>
+                                <p>contact@example.com<br>info@example.com</p>
+                            </div>
+                            <div class="col-lg-6 info d-flex flex-column align-items-stretch">
+                                <i class="bx bx-time-five"></i>
+                                <h4>Office Hours</h4>
+                                <p>Mon - Fri: 9AM to 5PM</p>
+                                <h4>Online Hours</h4>
+                                <p>24/7</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-6 d-flex align-items-stretch contact-form-wrap">
+                        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                            <div class="row">
+                                <div class="col-md-6 form-group">
+                                    <label for="name">Your Name</label>
+                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                                </div>
+                                <div class="col-md-6 form-group mt-3 mt-md-0">
+                                    <label for="email">Your Email</label>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                                </div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <label for="subject">Subject</label>
+                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                            </div>
+                            <div class="form-group mt-3">
+                                <label for="message">Message</label>
+                                <textarea class="form-control" name="message" rows="8" required></textarea>
+                            </div>
+                            <div class="my-3">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+                            </div>
+                            <div class="text-center"><button type="submit">Send Message</button></div>
+                        </form>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Contact Us Section -->
+
     </main>
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-3 col-md-6 footer-info">
+                        <h3>TradeTrove</h3>
+                        <p>
+                            Akroma Road <br>
+                            North Kaneshie, Accra- Ghana<br><br>
+                            <strong>Phone:</strong> +233 24 300 9448<br>
+                            <strong>Email:</strong> gyasilarbi459@gmail.com<br>
+                        </p>
+                        <div class="social-links mt-3">
+                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6 footer-links">
+                        <h4>Useful Links</h4>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Help and Support</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-links">
+                        <h4>Our Services</h4>
+                        <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#">Electrical Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Mechanical Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Cleaning Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="#">Woodworks</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 footer-newsletter">
+                        <h4>Our Newsletter</h4>
+                        <p>
+                            "Break away from the ordinary with TradeTrove! <br> 🌟 Uncover unique solutions, immerse yourself in diverse trades, and create impactful experiences.
+                            <br> 🛠️ Explore TradeTrove: Let us guide you through a marketplace of skills, connecting you with expert tradespeople and a world of possibilities.
+                            <br> 🛠️ Tailored Services: Our team tailors solutions to fit your specific needs and preferences.
+                            <br> 🌐 Seamless Collaboration: Leave the coordination to us – from skilled professionals to problem-solving, we've got you covered.
+                            <br> 📞 Connect with Us: Contact TradeTrove today, and let's shape extraordinary solutions together!" </p>
+                        <form action="" method="post">
+                            <input type="email" name="email"><input type="submit" value="Subscribe">
+                        </form>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>TradeTrove</span></strong>. All Rights Reserved
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> & <a href="">GyasiLarbi</a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
 
     <!-- Vendor JS Files -->
     <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
