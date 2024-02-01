@@ -58,7 +58,7 @@
     </header><!-- End Header -->
 
     <main id="main">
-        <section class="section-bg">
+        <section class="how section-bg">
             <div class="container">
                 <div class="row no-gutters">
                     <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">

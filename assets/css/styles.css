@@ -1354,3 +1354,44 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+/*---------------------------------------------
+#How
+------------------------------------------------*/
+.how .count-box i {
+  display: block;
+  font-size: 34px;
+  color: hsl(27, 75%, 42%);
+  float: left;
+  line-height: 0;
+}
+
+.how .count-box span {
+  font-size: 42px;
+  line-height: 24px;
+  display: block;
+  font-weight: 700;
+  color: #58716d;
+  margin-left: 50px;
+}
+
+.how .count-box p {
+  padding: 10px 0 0 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+}
+
+.how .count-box a {
+  font-weight: 600;
+  display: block;
+  margin-top: 20px;
+  color: #7c9995;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  transition: ease-in-out 0.3s;
+}
+
+.how .count-box a:hover {
+  color: #a7bbb8;
+}
