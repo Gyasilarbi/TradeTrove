@@ -58,7 +58,43 @@
     </header><!-- End Header -->
 
     <main id="main">
-        
+        <section class="section-bg">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+                        <div class="count-box">
+                            <i class="bi bi-1-circle"></i>
+                            <span>
+                                <h4>Select Your Desired Services</h4>
+                            </span>
+                            <p>Begin your journey by choosing the specific services you require. Whether it's carpentry, electrical work, plumbing, mechanics, or other specialized trades, TradeTrove provides a diverse range of options to cater to your needs. Navigate through our user-friendly platform and pick the services that align with your requirements.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+                        <div class="count-box">
+                            <i class="bi bi-2-circle"></i>
+                            <span>
+                                <h4>Discover Skilled Tradespeople</h4>
+                            </span>
+                            <p>Explore a curated selection of highly skilled tradespeople who excel in their respective fields. Each professional on TradeTrove comes with a detailed profile, showcasing their expertise, qualifications, and past work. This ensures that you have all the information needed to make an informed decision. Find the perfect match for your project or service needs.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
+                        <div class="count-box">
+                            <i class="bi bi-3-circle"></i>
+                            <span>
+                                <h4>Submit Your Service Request</h4>
+                            </span>
+                            <p>Ready to get started? Simply submit your service request on TradeTrove. Describe your project, specify any preferences, and let us know your desired timeline. Once your request is submitted, our platform efficiently matches you with the most suitable tradesperson for the job. Experience a streamlined process that takes the hassle out of finding and connecting with skilled professionals.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
     </main>
 
 </body>
