@@ -110,7 +110,7 @@
                             <li><a href="#">Mechanical Services</a></li>
                             <li><a href="#">Cleaning Services</a></li>
                             <li><a href="#">Home Services</a></li>
-                            <li><a href="#">Woodworks</a></li>
+                            <li><a href="#">Building and Construction</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#team">Help and Support</a></li>
@@ -145,42 +145,42 @@
         </section><!-- End About Us Section -->
 
         <!-- ======= Counts Section ======= -->
-        <section class="counts section-bg">
+        <!----------How----------->
+        <section class="how section-bg">
             <div class="container">
-
                 <div class="row no-gutters">
-
                     <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
                         <div class="count-box">
-                            <i class="bi bi-emoji-smile"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="41572828" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>Discover unparalleled expertise at TradeTrove! Our skilled personnel bring a wealth of experience and proficiency to every task. From seasoned carpenters and plumbers to expert electricians, our professionals are dedicated to solving your challenges with precision and professionalism. Explore a diverse pool of talent on TradeTrove and let our skilled personnel turn your visions into reality. Your projects, our expertise — a perfect match!</p>
-                            <a href="#">Find out more &raquo;</a>
+                            <i class="bi bi-1-circle"></i>
+                            <span>
+                                <h4>Select Your Desired Services</h4>
+                            </span>
+                            <p>Begin your journey by choosing the specific services you require. Whether it's carpentry, electrical work, plumbing, mechanics, or other specialized trades, TradeTrove provides a diverse range of options to cater to your needs. Navigate through our user-friendly platform and pick the services that align with your requirements.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
                         <div class="count-box">
-                            <i class="bi bi-globe-europe-africa"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>"TradeTrove: Unleashing Skills Worldwide! 🌐 Proudly serving across numerous countries, our platform connects skilled tradespeople with consumers globally. Whether you're in bustling cities or serene landscapes, TradeTrove spans borders to bring you a world of expertise. Join us in revolutionizing the way trades are showcased and services are accessed. Wherever you are, TradeTrove is your go-to destination for skilled professionals. Your needs, our global reach — because excellence knows no boundaries!"</p>
-                            <a href="https://www.google.com/search?q=ghana%27s+animal+species&rlz=1C5CHFA_enGH1076GH1077&oq=ghana%27s+animal+species+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigXSAQkxNTE2MWoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Find out more &raquo;</a>
+                            <i class="bi bi-2-circle"></i>
+                            <span>
+                                <h4>Discover Skilled Tradespeople</h4>
+                            </span>
+                            <p>Explore a curated selection of highly skilled tradespeople who excel in their respective fields. Each professional on TradeTrove comes with a detailed profile, showcasing their expertise, qualifications, and past work. This ensures that you have all the information needed to make an informed decision. Find the perfect match for your project or service needs.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-md-flex align-items-md-stretch">
                         <div class="count-box">
-                            <i class="bi bi-people"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="9967" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>At TradeTrove, our users are the heartbeat of our community! 🌟 Whether you're a skilled tradesperson showcasing your craft or a savvy consumer seeking solutions, you're part of a dynamic network that values expertise and collaboration. Our platform is fueled by the passion and diversity of users who make every project, every connection, and every solution possible. Join the TradeTrove family — where skills meet needs, and every user contributes to a thriving community of excellence. Together, we build, connect, and elevate!"</p>
-                            <a href="https://www.statista.com/statistics/1230202/number-of-international-tourists-arriving-in-ghana/#:~:text=Number%20of%20tourist%20arrivals%20in%20Ghana%202016%2D2022&text=In%202021%2C%20Ghana%20registered%20around,%2D19)%20in%20the%20country.">Find out more &raquo;</a>
+                            <i class="bi bi-3-circle"></i>
+                            <span>
+                                <h4>Submit Your Service Request</h4>
+                            </span>
+                            <p>Ready to get started? Simply submit your service request on TradeTrove. Describe your project, specify any preferences, and let us know your desired timeline. Once your request is submitted, our platform efficiently matches you with the most suitable tradesperson for the job. Experience a streamlined process that takes the hassle out of finding and connecting with skilled professionals.</p>
                         </div>
                     </div>
-
                 </div>
-
             </div>
-        </section><!-- End Counts Section -->
+        </section>
 
         <!-- ======= Our Services Section ======= -->
         <section id="services" class="services">
@@ -337,8 +337,11 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-info">
-                        <h3>TradeTrove</h3>
-                        <p>
+                    <a href="index.php"><img src="Images/logo.png" alt="" class="img-fluid"></a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 footer-info">
+                    <p>
                             Akroma Road <br>
                             North Kaneshie, Accra- Ghana<br><br>
                             <strong>Phone:</strong> +233 24 300 9448<br>
@@ -354,16 +357,6 @@
                     </div>
 
                     <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Help and Support</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Electrical Services</a></li>

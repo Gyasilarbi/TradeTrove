@@ -45,7 +45,7 @@
                             <li><a href="#">Mechanical Services</a></li>
                             <li><a href="#">Cleaning Services</a></li>
                             <li><a href="#">Home Services</a></li>
-                            <li><a href="#">Woodworks</a></li>
+                            <li><a href="#">Building and Construction</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#team">Help and Support</a></li>
@@ -122,9 +122,9 @@
                         <div class="count-box">
                             <img src="../assets/img/cart-removebg-preview.png" alt="">
                             <a href="#">
-                                <h5>Woodwork Services</h5>
+                                <h5>Building and Construction</h5>
                             </a>
-                            <p>Woodwork services encompass a range of skilled tasks related to crafting, installing, and maintaining wooden structures and furnishings. This includes custom carpentry, cabinet making, trim and molding installation, wooden flooring services, door and window installation, deck and patio construction, wooden fence work, sculpting and artwork, staircase construction, and restoration/refinishing services. Skilled woodworkers offer unique and tailored solutions for both indoor and outdoor wooden elements, emphasizing craftsmanship and aesthetic appeal. Hiring experienced professionals is essential for achieving quality results in woodwork projects.</p>
+                            <p>Building and construction services encompass the entire process of planning, designing, constructing, and maintaining structures. This includes design and planning, site preparation, foundation construction, structural framing, roofing, exterior and interior finishing, plumbing and electrical installations, HVAC systems, inspections, project management, renovations, remodeling, and demolition. Reputable construction services prioritize quality workmanship, adherence to codes, and safety throughout the construction process.</p>
                         </div>
                     </div>
                 </div>
