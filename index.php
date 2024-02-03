@@ -172,7 +172,7 @@
                         <div class="count-box">
                             <i class="bi bi-people"></i>
                             <span data-purecounter-start="0" data-purecounter-end="9967" data-purecounter-duration="1" class="purecounter"></span>
-                            <p>A"At TradeTrove, our users are the heartbeat of our community! 🌟 Whether you're a skilled tradesperson showcasing your craft or a savvy consumer seeking solutions, you're part of a dynamic network that values expertise and collaboration. Our platform is fueled by the passion and diversity of users who make every project, every connection, and every solution possible. Join the TradeTrove family — where skills meet needs, and every user contributes to a thriving community of excellence. Together, we build, connect, and elevate!"</p>
+                            <p>At TradeTrove, our users are the heartbeat of our community! 🌟 Whether you're a skilled tradesperson showcasing your craft or a savvy consumer seeking solutions, you're part of a dynamic network that values expertise and collaboration. Our platform is fueled by the passion and diversity of users who make every project, every connection, and every solution possible. Join the TradeTrove family — where skills meet needs, and every user contributes to a thriving community of excellence. Together, we build, connect, and elevate!"</p>
                             <a href="https://www.statista.com/statistics/1230202/number-of-international-tourists-arriving-in-ghana/#:~:text=Number%20of%20tourist%20arrivals%20in%20Ghana%202016%2D2022&text=In%202021%2C%20Ghana%20registered%20around,%2D19)%20in%20the%20country.">Find out more &raquo;</a>
                         </div>
                     </div>
@@ -187,7 +187,7 @@
             <div class="container">
 
                 <div class="section-title">
-                    <h2>Our Services</h2>
+                    <a href="./Services/services.php"><h2>Our Services</h2></a>
                     <p>TradeTrove is a comprehensive online platform that bridges the gap between skilled tradespeople and consumers, offering a dynamic space for professionals to showcase their expertise in carpentry, electrical work, plumbing, mechanics, and more. Through secure communication channels and seamless interactions, consumers can discover, connect with, and hire tradespeople for their specific needs. The platform prioritizes user safety, fosters trust through a robust review system, and serves as a solution hub where tradespeople shine and users find the skilled professionals they require. TradeTrove goes beyond being a conventional platform, creating a collaborative environment that facilitates problem-solving, community building, and efficient connections in the trades industry.</p>
                 </div>
 
@@ -228,7 +228,7 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-trash"></i></div>
-                            <h4 class="title"><a href="">Dining and Culinary Experiences and Events</a></h4>
+                            <h4 class="title"><a href="">Cleaning Services</a></h4>
                             <p class="description">Regular cleaning of homes, apartments, or condominiums. Cleaning services for businesses, offices, and commercial establishments. Thorough and comprehensive cleaning that goes beyond regular maintenance. Specialized cleaning for carpets and rugs.</p>
                         </div>
                     </div>
@@ -366,7 +366,7 @@
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="#">Electrical Services</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Electrical Services</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Mechanical Services</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Cleaning Services</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Home Services</a></li>
@@ -381,7 +381,8 @@
                             <br> 🛠️ Explore TradeTrove: Let us guide you through a marketplace of skills, connecting you with expert tradespeople and a world of possibilities.
                             <br> 🛠️ Tailored Services: Our team tailors solutions to fit your specific needs and preferences.
                             <br> 🌐 Seamless Collaboration: Leave the coordination to us – from skilled professionals to problem-solving, we've got you covered.
-                            <br> 📞 Connect with Us: Contact TradeTrove today, and let's shape extraordinary solutions together!" </p>
+                            <br> 📞 Connect with Us: Contact TradeTrove today, and let's shape extraordinary solutions together!"
+                        </p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
